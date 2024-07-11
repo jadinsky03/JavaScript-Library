@@ -1,0 +1,12 @@
+{
+  "name": "javascript-library",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A library that adds two numbers with the use of the add() function"
+}
